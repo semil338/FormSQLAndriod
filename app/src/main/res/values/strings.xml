@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="student_registration">Student Registration</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="address">Address</string>
+    <string name="mobile">Mobile No</string>
+    <string name="email">Email Id</string>
+    <string name="next">Next</string>
+    <string name="course_name">Course Name: MCA</string>
+    <string name="subject">Subject</string>
+    <string name="upload_id_card">Upload ID Card</string>
+    <string name="submit">Submit</string>
+    <string name="add_student">Add Student</string>
+
+    <string-array name="subjects">
+        <item>Java</item>
+        <item>Android</item>
+        <item>.Net</item>
+        <item>Web 2.0</item>
+        <item>ML</item>
+        <item>DBMS</item>
+        <item>OS</item>
+        <item>UML</item>
+    </string-array>
+</resources>
